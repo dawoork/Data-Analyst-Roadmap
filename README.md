@@ -2,7 +2,7 @@
 ## Ruta de aprendizaje desde cero para convertirte en Data Analytics 2023 
 > ℹ️ He creado este repositorio para actualizarlo continuamente con recursos de aprendizaje de dentro y fuera de la comunidad.
 >  
-> ⚠️ **IMPORTANTE:** No dudes en sugerir [cambios](https://github.com/mouredev/Apple-Developer-Roadmap/discussions), hacer [pull request](https://github.com/mouredev/Apple-Developer-Roadmap/pulls) o crear una nueva [issue](https://github.com/mouredev/Apple-Developer-Roadmap/issues) para compartir tus recursos y así añadirlos al repo con intención de crear una gran guía de estudio.
+> ⚠️ **IMPORTANTE:** No dudes en sugerir [cambios](https://github.com/dawoork/Data-Analytics-Roadmap/discussions), hacer [pull request](https://github.com/mouredev/Apple-Developer-Roadmap/pulls) o crear una nueva [issue](https://github.com/mouredev/Apple-Developer-Roadmap/issues) para compartir tus recursos y así añadirlos al repo con intención de crear una gran guía de estudio.
 
 ## Introducción
 
