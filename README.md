@@ -82,8 +82,8 @@ El arte de contar historias con datos es crucial para comunicar insights de mane
 #### 🌟 **Recurso Destacado para Power BI**
 Domina las herramientas que te ayudaran a contar las historia que los datos tienen...
 
-* [**Power Bi desde cero - 3 Proyectos Prácticos**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
-* [**Tableau desde cero - 3 Proyectos Prácticos**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
+* [**Power Bi desde cero - 3 Proyectos Prácticos Udemy**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
+* [**Tableau desde cero - 3 Proyectos Prácticos Udemy**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
 
 ### 3️⃣ Librerías y Frameworks: UIKit y SwiftUI
 Es hora de comenzar a trabajar con las librerías de código que nos proporciona Apple para crear Apps. Nos centraremos en las especializadas en creación de interfaces de usuario (UI): UIKit y SwiftUI (el nuevo framework presentado en 2019 diseñado para poco a poco sustituir a UIKit).
