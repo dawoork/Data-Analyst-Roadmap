@@ -21,12 +21,13 @@ Debes entender que aprender programación es una carrera de fondo. Tendrás mejo
 [![Data Science Roadmap](https://img.shields.io/github/stars/dawoork/Data-Science-Roadmap?label=Data%20Science%20Roadmap&style=social)](https://github.com/dawoork/Data-Science-Roadmap)
 
 ## Fuentes de información
-Recuerda la importancia de desarrollar habilidades para resolver problemas y encontrar información relevante. Puede sonal mal, pero [Google](https://www.google.com/) es una de nuestras principales herramientas de trabajo, y debemos saber usarlo. Otros lugares que debes conocer son:
+En tu travesía hacia ser un Data Analyst, es vital saber dónde buscar y cómo aplicar información relevante. Plataformas como GitHub, Stack Overflow, Medium, Dev.to, Kaggle, y LinkedIn Learning son esenciales para aprender, resolver problemas y conectar con más personas que comparten nuestros intereses
 
-* [Apple Developer](https://developer.apple.com/): Sitio web oficial para desarrolladores Apple
-* [GitHub](https://github.com/): Repositorio de código público más grande del mundo
-* [Stack Overflow](https://stackoverflow.com/): Resolución de problemas
-* [Medium](https://medium.com/) y [Dev.to](https://dev.to/): Artículos de interés
+* [GitHub](https://github.com/): Repositorio global de proyectos
+* [Stack Overflow](https://stackoverflow.com/): Comunidad de solución de problemas
+* [Medium](https://medium.com/): Artículos de tendencias e insights
+* [Dev.to](https://dev.to/): Comunidad y blogs de desarrolladores
+* [Kaggle](https://www.kaggle.com/): Competencias de datos y datasets
 
 ## Ruta de aprendizaje
 El roadmap estará compuesto por algunos recursos oficiales, otros creados por mí, y por los sugeridos desde la propia comunidad como comento al principio de este documento. *Por supuesto, esta mi ruta personal para aprender desarrollo de aplicaciones desde cero y dedicarte profesionalmente a ello (en ningún momento quiero que pienses que es la mejor o la única, simplemente es la que yo creo que te puede ayudar).*
