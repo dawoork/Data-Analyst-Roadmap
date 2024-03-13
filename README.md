@@ -6,7 +6,7 @@
 
 ## Introducción
 
-<a href="https://youtu.be/-w3R4DEwd2g"><img src="http://i3.ytimg.com/vi/-w3R4DEwd2g/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa.jpg"><img src="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa.jpg" style="height: 50%; width:50%;"/></a>
 
 **▶️ Antes de empezar te servirá de ayuda ver una introducción detallada donde explico el roadmap y el funcionamiento del repositorio en mi tutorial de [YouTube](https://youtu.be/-w3R4DEwd2g).**
 
