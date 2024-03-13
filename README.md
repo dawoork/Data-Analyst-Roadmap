@@ -37,7 +37,7 @@ Este roadmap combina recursos oficiales, contenidos creados por mí y recomendac
 
 > 📈 **A continuación tendrás el roadmap formado por un listado de conocimientos a adquirir (así como distintos sitios web donde comenzar su aprendizaje). Este listado se irá actualizando y completando, incluso creando nuevos documentos para agrupar enlaces de interés.**
 
-### 1️⃣ Fundamentos y Herramientas Esenciales
+## 1️⃣ Fundamentos y Herramientas Esenciales
 **Objetivo:** Adquirir una comprensión sólida de los principios básicos del análisis de datos y dominar las herramientas clave.
 
 #### 📚 **Contenido Esencial (Mis Videos)**
