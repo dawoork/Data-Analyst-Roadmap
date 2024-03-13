@@ -58,7 +58,7 @@ Fuentes oficiales y documentación para profundizar en las herramientas y tecnol
 * [**Seeing Theory**](https://seeing-theory.brown.edu/) - Una introducción visual a la probabilidad y estadística.
 
 #### 💡 **Curso Recomendado - Impulsa Tu Aprendizaje**
-Para aquellos que buscan llevar sus habilidades de SQL a un nuevo nivel, este curso es una inversión que vale la pena. 
+Para aquellos que buscan llevar sus habilidades de SQL a un nuevo nivel, este curso especializado en proyectos para tu portafolio vale la pena. 
 
 * [**🌟 SQL desde Cero - 3 Proyectos Prácticos en Udemy**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
 
