@@ -1,4 +1,4 @@
-# 🤓 Data Data Analyst Roadmap
+	# 🤓 Data Data Analyst Roadmap
 ## Ruta de aprendizaje desde cero para convertirte en Data Analyst 2023 
 > ℹ️ He creado este repositorio para actualizarlo continuamente con recursos de aprendizaje de dentro y fuera de la comunidad.
 >  
@@ -30,7 +30,7 @@ En tu travesía hacia ser un Data Analyst, es vital saber dónde buscar y cómo 
 * [Kaggle](https://www.kaggle.com/): Competencias de datos y datasets
 
 ## Ruta de aprendizaje
-El roadmap estará compuesto por algunos recursos oficiales, otros creados por mí, y por los sugeridos desde la propia comunidad como comento al principio de este documento. *Por supuesto, esta mi ruta personal para aprender desarrollo de aplicaciones desde cero y dedicarte profesionalmente a ello (en ningún momento quiero que pienses que es la mejor o la única, simplemente es la que yo creo que te puede ayudar).*
+Este roadmap combina recursos oficiales, contenidos creados por mí y recomendaciones de la comunidad, tal como indiqué inicialmente. *Es mi guía personal para iniciarte en Data Analytics y avanzar profesionalmente; no la única ni la mejor, pero sí una que considero útil.*
 
 🎓 **En mi [curso de Swift/iOS de 30 horas en Udemy](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930) podrás encontrar una gran parte de los temas tratados en este roadmap.**
 
