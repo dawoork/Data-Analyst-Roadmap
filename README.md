@@ -13,7 +13,7 @@
 ## Proceso de aprendizaje
 Debes entender que aprender programación es una carrera de fondo. Tendrás mejores y peores momentos, pero, ¿sabes qué? **¡Le pasa a todo el mundo!**. Al final del trayecto te espera un sector lleno de grandes oportunidades. Te recomiendo que te unas a nuestro servidor de Discord, donde compartimos recursos y nos ayudamos.
 
-[![Discord](https://img.shields.io/badge/Discord-Únete_a_nuestra_comunindad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
+[![Discord](https://img.shields.io/badge/Discord-Únete_a_nuestra_comunindad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/TNNA4CbnaQ)
 
 Para mejorar nuestras habilidades publico retos de programación semanales y mensuales en estos dos repositorios. También desarrollamos nuestra aplicación real [Twitimer](https://twitimer.com/), disponible en la App Store y con todo su código público.
 
