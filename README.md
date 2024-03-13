@@ -40,11 +40,11 @@ Este roadmap combina recursos oficiales, contenidos creados por mí y recomendac
 ### 1️⃣ Fundamentos y herramientas esenciales
 **Objetivo:** Adquirir una comprensión sólida de los principios básicos del análisis de datos y dominar las herramientas clave.
 
-* [**¿Qué es el Analisis de datos?**: Entiende a la perfección que hace un analista de datos y cual es su campo de acción. (Actualizar enlace cuando esté disponible)](https://youtu.be/@dawoork)
-* [**Estadística Básica para Data Analytics**: Fundamentos estadísticos esenciales para el análisis de datos. (Actualizar enlace cuando esté disponible)](https://www.youtube.com/@dawoork)
-* [**Dominando Hojas de Cálculo**: Aprende técnicas avanzadas para análisis de datos en Excel y Google Sheets. (Actualizar enlace cuando esté disponible)](https://www.youtube.com/@dawoork)
-* [**SQL desde Cero**: Fundamentos de SQL para manipulación y consulta de bases de datos. (Actualizar enlace cuando esté disponible)](https://www.youtube.com/@dawoork)
-* [**SQL desde Cero - 3 Proyectos Prácticos**: Aplica tus conocimientos de SQL en proyectos reales con este curso en Udemy. (Actualizar enlace cuando esté disponible)](https://www.udemy.com)
+* [¿Qué es el Analisis de datos?](https://youtu.be/@dawoork)
+* [Estadística Básica para Data Analytics](https://www.youtube.com/@dawoork)
+* [Dominando Hojas de Cálculo](https://www.youtube.com/@dawoork)
+* [SQL desde Cero](https://www.youtube.com/@dawoork)
+* [SQL desde Cero - 3 Proyectos Prácticos](https://www.udemy.com)
 
 ### 2️⃣ Editores de código: Xcode, Swift Playgrounds, Online Swift Playground
 Puedes usar estos tres editores de código para aprender Swift, eso sí, para crear aplicaciones no podrás hacerlo con el editor online.
