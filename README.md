@@ -37,8 +37,8 @@ Este roadmap combina recursos oficiales, contenidos creados por mí y recomendac
 
 > 📈 **A continuación tendrás el roadmap formado por un listado de conocimientos a adquirir (así como distintos sitios web donde comenzar su aprendizaje). Este listado se irá actualizando y completando, incluso creando nuevos documentos para agrupar enlaces de interés.**
 
-### 1️⃣ Lenguaje de programación: Swift
-Debes aprender sus fundamentos, tipos de datos primivos y estructuras, flujo lógico y paradigma de programación orientada a objetos.
+### 1️⃣ Fundamentos y herramientas esenciales
+*Objetivo:* Comprender los principios básicos del análisis de datos y familiarizarse con las herramientas clave.
 
 * [Swift en Apple Developer](https://developer.apple.com/swift/)
 * [Swift.org sitio web oficial](https://www.swift.org/)
