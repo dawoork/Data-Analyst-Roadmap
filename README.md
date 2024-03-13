@@ -88,27 +88,29 @@ Domina las herramientas que te ayudaran a contar las historia que los datos tien
 ## 3️⃣ Programación Python o R
 **Objetivo:** Desarrollar habilidades de programación en Python o R para análisis de datos y visualización, aprovechando herramientas y bibliotecas especializadas.
 
+* [**¿Python o R?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+
 ### 🐍 **Python para Análisis de Datos**
-* [**Introducción a Python para Análisis de Datos**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**Python para análisis de datos desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 * [**Visualización de Datos con Matplotlib y Seaborn**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 
 
 #### 📊 **R para Análisis de Datos**
-* [**Fundamentos de R para Análisis de Datos**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**R para análisis de datos desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 * [**Creando Visualizaciones Impactantes con ggplot2**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 
 
 #### 📝 **Documentación y Guías Oficiales**
 #### **Python**
-* Documentación oficial Python: [Python Docs](https://docs.python.org/3/)
-* Documentación oficial Pandas: [Pandas Docs](https://pandas.pydata.org/pandas-docs/stable/)
-* Documentación oficial Matplotlib: [Matplotlib Docs](https://matplotlib.org/)
-* Documentación oficial Seaborn: [Seaborn Docs](https://seaborn.pydata.org/)
+* [Python Docs](https://docs.python.org/3/)
+* [Pandas Docs](https://pandas.pydata.org/pandas-docs/stable/)
+* [Matplotlib Docs](https://matplotlib.org/)
+* [Seaborn Docs](https://seaborn.pydata.org/)
 
 #### **R**
-* Documentación oficial R: [The R Project](https://www.r-project.org/)
-* Documentación oficial dplyr: [dplyr Docs](https://dplyr.tidyverse.org/)
-* Documentación oficial ggplot2: [ggplot2 Docs](https://ggplot2.tidyverse.org/)
+* [The R Project](https://www.r-project.org/)
+* [dplyr Docs](https://dplyr.tidyverse.org/)
+* [ggplot2 Docs](https://ggplot2.tidyverse.org/)
 * 
 #### 📈 **Práctica con Proyectos**
 * [**🌟 Python desde Cero - 3 Proyectos Prácticos en Udemy**](https://www.udemy.com) - Duración: X Minutos
