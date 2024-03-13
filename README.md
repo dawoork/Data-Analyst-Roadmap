@@ -111,7 +111,7 @@ Domina las herramientas que te ayudaran a contar las historia que los datos tien
 * [The R Project](https://www.r-project.org/)
 * [dplyr Docs](https://dplyr.tidyverse.org/)
 * [ggplot2 Docs](https://ggplot2.tidyverse.org/)
-* 
+  
 #### 📈 **Práctica con Proyectos**
 * [**🌟 Python desde Cero - 3 Proyectos Prácticos en Udemy**](https://www.udemy.com) - Duración: X Minutos
 * [**🌟 R desde Cero - 3 Proyectos Prácticos en Udemy**](https://www.udemy.com) - Duración: X Minutos
