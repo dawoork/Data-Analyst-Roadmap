@@ -37,19 +37,30 @@ Este roadmap combina recursos oficiales, contenidos creados por mí y recomendac
 
 > 📈 **A continuación tendrás el roadmap formado por un listado de conocimientos a adquirir (así como distintos sitios web donde comenzar su aprendizaje). Este listado se irá actualizando y completando, incluso creando nuevos documentos para agrupar enlaces de interés.**
 
-### 1️⃣ Fundamentos y herramientas esenciales
+### 1️⃣ Fundamentos y Herramientas Esenciales
 **Objetivo:** Adquirir una comprensión sólida de los principios básicos del análisis de datos y dominar las herramientas clave.
 
-* [¿Qué es el Analisis de datos?](https://youtu.be/@dawoork) - Duración: X Minutos 
-* [Estadística Básica para Data Analytics](https://www.youtube.com/@dawoork) - Duración: X Minutos 
-* [Dominando Hojas de Cálculo](https://www.youtube.com/@dawoork) - Duración: X Minutos 
-* [SQL desde Cero](https://www.youtube.com/@dawoork) - Duración: X Minutos 
-* [SQL desde Cero - 3 Proyectos Prácticos](https://www.udemy.com) - Duración: X Minutos
-* [Documentación Oficial de Excel por Microsoft](https://support.microsoft.com/es-es/excel) - Documentación completa para análisis de datos en Excel.
-* [Centro de Aprendizaje de Google Sheets por Google](https://support.google.com/a/users/answer/9282959?hl=es) - Tutoriales y recursos para dominar Google Sheets.
-* [Tutorial de SQL en W3Schools](https://www.w3schools.com/sql/default.asp) - Una guía interactiva para aprender SQL desde lo básico hasta consultas avanzadas.
-* [NIST/SEMATECH e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/) - Una guía exhaustiva de métodos estadísticos.
-* [Seeing Theory](https://seeing-theory.brown.edu/) - Una introducción visual a la probabilidad y estadística.
+#### 📚 **Contenido Esencial (Mis Videos)**
+Aquí encontrarás videos creados por mí, diseñados para darte una introducción sólida y práctica al mundo del análisis de datos.
+
+* [**¿Qué es el Análisis de datos?**](https://youtu.be/@dawoork) - Duración: X Minutos 
+* [**Estadística Básica para Data Analytics**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**Dominando Hojas de Cálculo**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**SQL desde Cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+
+#### 📘 **Documentación y Guías Oficiales**
+Fuentes oficiales y documentación para profundizar en las herramientas y tecnologías de análisis de datos.
+
+* [**Documentación Oficial de Excel por Microsoft**](https://support.microsoft.com/es-es/excel) - Documentación completa para análisis de datos en Excel.
+* [**Centro de Aprendizaje de Google Sheets por Google**](https://support.google.com/a/users/answer/9282959?hl=es) - Tutoriales y recursos para dominar Google Sheets.
+* [**Tutorial de SQL en W3Schools**](https://www.w3schools.com/sql/default.asp) - Una guía interactiva para aprender SQL desde lo básico hasta consultas avanzadas.
+* [**NIST/SEMATECH e-Handbook of Statistical Methods**](https://www.itl.nist.gov/div898/handbook/) - Una guía exhaustiva de métodos estadísticos.
+* [**Seeing Theory**](https://seeing-theory.brown.edu/) - Una introducción visual a la probabilidad y estadística.
+
+#### 💡 **Curso Recomendado - Impulsa Tu Aprendizaje**
+Para aquellos que buscan llevar sus habilidades de SQL a un nuevo nivel, este curso es una inversión que vale la pena. 
+
+* [**🌟 SQL desde Cero - 3 Proyectos Prácticos en Udemy**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
 
 
 ### 2️⃣ Editores de código: Xcode, Swift Playgrounds, Online Swift Playground
