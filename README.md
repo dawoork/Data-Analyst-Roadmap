@@ -32,7 +32,8 @@ En tu travesía hacia ser un Data Analyst, es vital saber dónde buscar y cómo 
 ## Ruta de aprendizaje
 Este roadmap combina recursos oficiales, contenidos creados por mí y recomendaciones de la comunidad, tal como indiqué inicialmente. *Es mi guía personal para iniciarte en Data Analytics y avanzar profesionalmente; no la única ni la mejor, pero sí una que considero útil.*
 
-🎓 **En mi [curso de Swift/iOS de 30 horas en Udemy](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930) podrás encontrar una gran parte de los temas tratados en este roadmap.**
+
+🎓 **En mis [cursos /Data Anlyst](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930) podrás encontrar una gran parte de los temas tratados en este roadmap.**
 
 > 📈 **A continuación tendrás el roadmap formado por un listado de conocimientos a adquirir (así como distintos sitios web donde comenzar su aprendizaje). Este listado se irá actualizando y completando, incluso creando nuevos documentos para agrupar enlaces de interés.**
 
