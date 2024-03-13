@@ -116,6 +116,7 @@ Domina las herramientas que te ayudaran a contar las historia que los datos tien
 * [**🌟 Python desde Cero - 3 Proyectos Prácticos en Udemy**](https://www.udemy.com) - Duración: X Minutos
 * [**🌟 R desde Cero - 3 Proyectos Prácticos en Udemy**](https://www.udemy.com) - Duración: X Minutos
 
+Recuerda que la elección entre Python y R dependerá de tus preferencias personales, el contexto de tus proyectos y, en algunos casos, las especificaciones del sector al que te dirijas. Ambos lenguajes tienen comunidades de soporte extensas y recursos de aprendizaje ricos que facilitarán tu viaje en el análisis de datos.
 
 ### 4️⃣ Guías de desarrollo y diseño
 La documentación oficial de Apple es esencial para conocer sus normas, recomendaciones y procesos.
