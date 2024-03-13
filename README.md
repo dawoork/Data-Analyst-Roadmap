@@ -40,7 +40,7 @@ Este roadmap combina recursos oficiales, contenidos creados por mí y recomendac
 ### 1️⃣ Fundamentos y herramientas esenciales
 **Objetivo:** Adquirir una comprensión sólida de los principios básicos del análisis de datos y dominar las herramientas clave.
 
-* [¿Qué es el Analisis de datos?](https://youtu.be/@dawoork)
+* [¿Qué es el Analisis de datos?](https://youtu.be/@dawoork) - Duración: X Minutos - Dificultad:Principiante
 * [Estadística Básica para Data Analytics](https://www.youtube.com/@dawoork)
 * [Dominando Hojas de Cálculo](https://www.youtube.com/@dawoork)
 * [SQL desde Cero](https://www.youtube.com/@dawoork)
