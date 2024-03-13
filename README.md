@@ -40,11 +40,17 @@ Este roadmap combina recursos oficiales, contenidos creados por mí y recomendac
 ### 1️⃣ Fundamentos y herramientas esenciales
 **Objetivo:** Adquirir una comprensión sólida de los principios básicos del análisis de datos y dominar las herramientas clave.
 
-* [¿Qué es el Analisis de datos?](https://youtu.be/@dawoork) - Duración: X Minutos - Dificultad:Principiante
-* [Estadística Básica para Data Analytics](https://www.youtube.com/@dawoork)
-* [Dominando Hojas de Cálculo](https://www.youtube.com/@dawoork)
-* [SQL desde Cero](https://www.youtube.com/@dawoork)
-* [SQL desde Cero - 3 Proyectos Prácticos](https://www.udemy.com)
+* [¿Qué es el Analisis de datos?](https://youtu.be/@dawoork) - Duración: X Minutos 
+* [Estadística Básica para Data Analytics](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [Dominando Hojas de Cálculo](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [SQL desde Cero](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [SQL desde Cero - 3 Proyectos Prácticos](https://www.udemy.com) - Duración: X Minutos
+* [Documentación Oficial de Excel por Microsoft](https://support.microsoft.com/es-es/excel) - Documentación completa para análisis de datos en Excel.
+* [Centro de Aprendizaje de Google Sheets por Google](https://support.google.com/a/users/answer/9282959?hl=es) - Tutoriales y recursos para dominar Google Sheets.
+* [Tutorial de SQL en W3Schools](https://www.w3schools.com/sql/default.asp) - Una guía interactiva para aprender SQL desde lo básico hasta consultas avanzadas.
+* [NIST/SEMATECH e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/) - Una guía exhaustiva de métodos estadísticos.
+* [Seeing Theory](https://seeing-theory.brown.edu/) - Una introducción visual a la probabilidad y estadística.
+
 
 ### 2️⃣ Editores de código: Xcode, Swift Playgrounds, Online Swift Playground
 Puedes usar estos tres editores de código para aprender Swift, eso sí, para crear aplicaciones no podrás hacerlo con el editor online.
