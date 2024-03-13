@@ -8,7 +8,7 @@
 
 <a href="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa_v2.jpg"><img src="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa_v2.jpg" style="height: 50%; width:50%;"/></a>
 
-**▶️ Antes de empezar te servirá de ayuda ver una introducción detallada donde explico el roadmap y el funcionamiento del repositorio en mi tutorial de [YouTube](https://youtu.be/-w3R4DEwd2g).**
+**▶️ Antes de empezar te servirá de ayuda ver una introducción detallada donde explico el roadmap y el funcionamiento del repositorio en mi tutorial de [YouTube](https://youtu.be/@dawoork).**
 
 ## Proceso de aprendizaje
 Debes entender que aprender programación es una carrera de fondo. Tendrás mejores y peores momentos, pero, ¿sabes qué? **¡Le pasa a todo el mundo!**. Al final del trayecto te espera un sector lleno de grandes oportunidades. Te recomiendo que te unas a nuestro servidor de Discord, donde compartimos recursos y nos ayudamos.
@@ -33,17 +33,18 @@ En tu travesía hacia ser un Data Analyst, es vital saber dónde buscar y cómo 
 Este roadmap combina recursos oficiales, contenidos creados por mí y recomendaciones de la comunidad, tal como indiqué inicialmente. *Es mi guía personal para iniciarte en Data Analytics y avanzar profesionalmente; no la única ni la mejor, pero sí una que considero útil.*
 
 
-🎓 **En mis [cursos Udemy/Data Anlyst](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930) podrás encontrar una gran parte de los temas tratados en este roadmap.**
+🎓 **En mis [cursos Udemy/Data Anlyst](https://www.udemy.com) podrás encontrar una gran parte de los temas tratados en este roadmap.**
 
 > 📈 **A continuación tendrás el roadmap formado por un listado de conocimientos a adquirir (así como distintos sitios web donde comenzar su aprendizaje). Este listado se irá actualizando y completando, incluso creando nuevos documentos para agrupar enlaces de interés.**
 
 ### 1️⃣ Fundamentos y herramientas esenciales
-*Objetivo:* Comprender los principios básicos del análisis de datos y familiarizarse con las herramientas clave.
+**Objetivo:** Adquirir una comprensión sólida de los principios básicos del análisis de datos y dominar las herramientas clave.
 
-* [Swift en Apple Developer](https://developer.apple.com/swift/)
-* [Swift.org sitio web oficial](https://www.swift.org/)
-* [TUTORIAL Swift desde cero](https://youtu.be/P6ko_I5GHbs)
-* [TUTORIAL Swift (en Udemy)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
+* [**¿Qué es el Analisis de datos?**: Entiende a la perfección que hace un analista de datos y cual es su campo de acción. (Actualizar enlace cuando esté disponible)](https://youtu.be/@dawoork)
+* [**Estadística Básica para Data Analytics**: Fundamentos estadísticos esenciales para el análisis de datos. (Actualizar enlace cuando esté disponible)](https://www.youtube.com/@dawoork)
+* [**Dominando Hojas de Cálculo**: Aprende técnicas avanzadas para análisis de datos en Excel y Google Sheets. (Actualizar enlace cuando esté disponible)](https://www.youtube.com/@dawoork)
+* [**SQL desde Cero**: Fundamentos de SQL para manipulación y consulta de bases de datos. (Actualizar enlace cuando esté disponible)](https://www.youtube.com/@dawoork)
+* [**SQL desde Cero - 3 Proyectos Prácticos**: Aplica tus conocimientos de SQL en proyectos reales con este curso en Udemy. (Actualizar enlace cuando esté disponible)](https://www.udemy.com)
 
 ### 2️⃣ Editores de código: Xcode, Swift Playgrounds, Online Swift Playground
 Puedes usar estos tres editores de código para aprender Swift, eso sí, para crear aplicaciones no podrás hacerlo con el editor online.
