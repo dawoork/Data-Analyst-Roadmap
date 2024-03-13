@@ -74,7 +74,7 @@ Comprende la importancia de la visualización de datos y aprende a usar herramie
 * [**Tableau desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
 
 
-#### 📝 **Storytelling con Datos**
+#### 📝 **Documentación y Guías Oficiales: Storytelling con Datos**
 El arte de contar historias con datos es crucial para comunicar insights de manera que sean comprendidos y accionables. Estos recursos te ayudarán a dominar esta habilidad esencial.
 
 * [**Storytelling para la Visualización de Datos**](https://www.storytellingwithdata.com/) - Consejos, ejemplos y mejores prácticas para contar historias con tus datos.
@@ -85,13 +85,35 @@ Domina las herramientas que te ayudaran a contar las historia que los datos tien
 * [**Power Bi desde cero - 3 Proyectos Prácticos Udemy**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
 * [**Tableau desde cero - 3 Proyectos Prácticos Udemy**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
 
-### 3️⃣ Librerías y Frameworks: UIKit y SwiftUI
-Es hora de comenzar a trabajar con las librerías de código que nos proporciona Apple para crear Apps. Nos centraremos en las especializadas en creación de interfaces de usuario (UI): UIKit y SwiftUI (el nuevo framework presentado en 2019 diseñado para poco a poco sustituir a UIKit).
+## 3️⃣ Programación Python o R
+**Objetivo:** Desarrollar habilidades de programación en Python o R para análisis de datos y visualización, aprovechando herramientas y bibliotecas especializadas.
 
-* [SwiftUI](https://developer.apple.com/xcode/swiftui)
-* [UIKit](https://developer.apple.com/documentation/uikit)
-* [TUTORIAL UIKit (en Udemy)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
-* [TUTORIAL SwiftUI](https://youtu.be/hGIzLGgf3Bo)
+### 🐍 **Python para Análisis de Datos**
+* [**Introducción a Python para Análisis de Datos**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**Visualización de Datos con Matplotlib y Seaborn**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+
+
+#### 📊 **R para Análisis de Datos**
+* [**Fundamentos de R para Análisis de Datos**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**Creando Visualizaciones Impactantes con ggplot2**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+
+
+#### 📝 **Documentación y Guías Oficiales**
+#### **Python**
+* Documentación oficial Python: [Python Docs](https://docs.python.org/3/)
+* Documentación oficial Pandas: [Pandas Docs](https://pandas.pydata.org/pandas-docs/stable/)
+* Documentación oficial Matplotlib: [Matplotlib Docs](https://matplotlib.org/)
+* Documentación oficial Seaborn: [Seaborn Docs](https://seaborn.pydata.org/)
+
+#### **R**
+* Documentación oficial R: [The R Project](https://www.r-project.org/)
+* Documentación oficial dplyr: [dplyr Docs](https://dplyr.tidyverse.org/)
+* Documentación oficial ggplot2: [ggplot2 Docs](https://ggplot2.tidyverse.org/)
+* 
+#### 📈 **Práctica con Proyectos**
+* [**🌟 Python desde Cero - 3 Proyectos Prácticos en Udemy**](https://www.udemy.com) - Duración: X Minutos
+* [**🌟 R desde Cero - 3 Proyectos Prácticos en Udemy**](https://www.udemy.com) - Duración: X Minutos
+
 
 ### 4️⃣ Guías de desarrollo y diseño
 La documentación oficial de Apple es esencial para conocer sus normas, recomendaciones y procesos.
