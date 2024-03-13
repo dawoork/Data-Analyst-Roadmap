@@ -63,26 +63,27 @@ Para aquellos que buscan llevar sus habilidades de SQL a un nuevo nivel, este cu
 * [**🌟 SQL desde Cero - 3 Proyectos Prácticos en Udemy**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
 
 
-### 2️⃣ Editores de código: Xcode, Swift Playgrounds, Online Swift Playground
-Puedes usar estos tres editores de código para aprender Swift, eso sí, para crear aplicaciones no podrás hacerlo con el editor online.
+## 2️⃣ Storytelling y herramientas de visualización
+**Objetivo:** Desarrollar habilidades para comunicar efectivamente insights de datos a través de storytelling y aprender a utilizar Power BI para visualizar datos y contar historias impactantes.
 
-* [Xcode](https://developer.apple.com/xcode/)
-* [Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
-* [Swift Playground online](http://online.swiftplayground.run/)
-* [TUTORIAL Xcode](https://youtu.be/MyzZnIR5gC4)
-* [TUTORIAL Swift Playgrounds](https://youtu.be/8DCXEyL-GH4)
+#### 📊 **Herramientas de Visualización de Datos**
+Comprende la importancia de la visualización de datos y aprende a usar herramientas avanzadas como Power BI y Tableau para crear representaciones visuales que comuniquen los hallazgos de manera efectiva.
 
-También debes comenzar a conocer otros conceptos importantes dentro de la ingeniería de software:
+* [**¿Qué es el Storytelling? Cómo contar historias con tus datos**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**Power Bi desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**Tableau desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
 
-* Expresiones regulares.
-* Recursividad.
-* Notación asintótica.
-* Funciones de orden superior.
-* Porgramación orientada a objetos.
-* Programación orientada a estados.
-* Programación imperativa.
-* Programación declarativa.
-* Programación funcional.
+
+#### 📝 **Storytelling con Datos**
+El arte de contar historias con datos es crucial para comunicar insights de manera que sean comprendidos y accionables. Estos recursos te ayudarán a dominar esta habilidad esencial.
+
+* [**Storytelling para la Visualización de Datos**](https://www.storytellingwithdata.com/) - Consejos, ejemplos y mejores prácticas para contar historias con tus datos.
+
+#### 🌟 **Recurso Destacado para Power BI**
+Domina las herramientas que te ayudaran a contar las historia que los datos tienen...
+
+* [**Power Bi desde cero - 3 Proyectos Prácticos**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
+* [**Tableau desde cero - 3 Proyectos Prácticos**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
 
 ### 3️⃣ Librerías y Frameworks: UIKit y SwiftUI
 Es hora de comenzar a trabajar con las librerías de código que nos proporciona Apple para crear Apps. Nos centraremos en las especializadas en creación de interfaces de usuario (UI): UIKit y SwiftUI (el nuevo framework presentado en 2019 diseñado para poco a poco sustituir a UIKit).
