@@ -15,15 +15,10 @@ Debes entender que aprender programación es una carrera de fondo. Tendrás mejo
 
 [![Discord](https://img.shields.io/badge/Discord-Únete_a_nuestra_comunindad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://dawoork.com/discord)
 
-Para mejorar nuestras habilidades publico retos de programación semanales y mensuales en estos dos repositorios. También desarrollamos nuestra aplicación real [Twitimer](https://twitimer.com/), disponible en la App Store y con todo su código público.
 
-[![Reto mensual](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Reto%20mensual&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
-[![Reto semanal](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Reto%20semanal%20Swift/iOS&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
-[![Twitimer](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Twitimer%20iOS&style=social)](https://github.com/mouredev/Twitimer-iOS)
+🤖 Si estas buscando un roadmap enfocado al Data Science.
 
-🤖 Este roadmap también lo tienes disponible para desarrollo de aplicaciones en entornos Android.
-
-[![Android Developer Roadmap](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Roadmap%20Android%20Developer&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
+[![Data Science Roadmap](https://img.shields.io/github/stars/dawoork/Data-Science-Roadmap?label=Data%20Science%20Roadmap&style=social)](https://github.com/dawoork/Data-Science-Roadmap)
 
 ## Fuentes de información
 Recuerda la importancia de desarrollar habilidades para resolver problemas y encontrar información relevante. Puede sonal mal, pero [Google](https://www.google.com/) es una de nuestras principales herramientas de trabajo, y debemos saber usarlo. Otros lugares que debes conocer son:
