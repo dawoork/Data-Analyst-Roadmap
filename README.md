@@ -1,4 +1,4 @@
-# 🤓 Data Data Analyst Roadmap 2024
+# 🤓 Data Analyst Roadmap 2024
 ## Ruta de aprendizaje desde cero para convertirte en Data Analyst 2024
 > ℹ️ He creado este repositorio para actualizarlo continuamente con recursos de aprendizaje de dentro y fuera de la comunidad.
 >  
