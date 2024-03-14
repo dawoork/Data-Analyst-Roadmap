@@ -69,7 +69,7 @@ Para aquellos que buscan llevar sus habilidades de SQL a un nuevo nivel, este cu
 #### 📊 **Herramientas de Visualización de Datos**
 Comprende la importancia de la visualización de datos y aprende a usar herramientas avanzadas como Power BI y Tableau para crear representaciones visuales que comuniquen los hallazgos de manera efectiva.
 
-* [**¿Qué es el Storytelling? Cómo contar historias con tus datos**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**¿Qué es el Storytelling? Cómo contar historias con datos**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
 * [**Power Bi desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
 * [**Tableau desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
 
