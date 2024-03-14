@@ -186,9 +186,9 @@ La construcción de una red profesional robusta es esencial para el crecimiento 
 
 
 
->## Epílogo: La Jornada Continúa - Adaptabilidad y Aprendizaje Continuo en Análisis de Datos
+## La Jornada Continúa - Adaptabilidad y Aprendizaje Continuo en Análisis de Datos
 
->Felicidades por alcanzar este punto en tu camino hacia convertirte en un analista de datos competente. Has adquirido una amplia gama de habilidades técnicas, has aprendido a comunicar insights complejos de manera efectiva y has empezado a >construir un portafolio que demuestra tu competencia. Pero recuerda, el campo del análisis de datos, como el mundo digital, evoluciona constantemente. La adaptabilidad y el aprendizaje continuo son indispensables en tu carrera.
+Felicidades por alcanzar este punto en tu camino hacia convertirte en un analista de datos competente. Has adquirido una amplia gama de habilidades técnicas, has aprendido a comunicar insights complejos de manera efectiva y has empezado a construir un portafolio que demuestra tu competencia. Pero recuerda, el campo del análisis de datos, como el mundo digital, evoluciona constantemente. La adaptabilidad y el aprendizaje continuo son indispensables en tu carrera.
 
 >### Claves para un Crecimiento Continuo:
 >- **Cultiva la Curiosidad:** Mantén una mente inquisitiva. La curiosidad impulsa el aprendizaje continuo, animándote a explorar y cuestionar.
