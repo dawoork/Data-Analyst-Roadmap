@@ -149,20 +149,24 @@ Recuerda que la elección entre Python y R dependerá de tus preferencias person
 
 
 
-### 5️⃣ Patrones de diseño
-Mecanismos para resolver de forma elegante problemas comunes en programación
+## 5️⃣ Proyectos y Experiencia Práctica
+**Objetivo:** Poner en práctica los conocimientos adquiridos mediante la implementación en proyectos reales y la construcción de un portafolio sólido.
 
-[Estos son algunos de los principales](https://refactoring.guru/es/design-patterns):
+#### 💡 **Proyectos Personales y Colaborativos**
+* [**Realiza Proyectos Personales**](#) - Aplica las habilidades aprendidas en proyectos de datos reales y agrega estos proyectos a tu portafolio.
+* [**Participa en Kaggle**](https://www.kaggle.com/) - Únete a competencias de datos para ganar experiencia práctica y recibir feedback de la comunidad.
+* [**Contribuye a Proyectos de Código Abierto**](#) - Encuentra proyectos que te apasionen y contribuye a ellos para mejorar tus habilidades y colaborar con otros.
 
-* Delegate.
-* Singleton.
-* Adapter.
-* Decorator.
-* Facade.
-* State.
-* Strategy.
-* Builder.
-* ...
+#### 🌐 **Únete a Nuestra Comunidad en Discord**
+Participa activamente en nuestra comunidad de Discord para colaborar en proyectos, compartir conocimientos y aprender juntos. Realizamos periódicamente proyectos y actividades en comunidad que te permitirán aplicar lo aprendido en un entorno colaborativo y dinámico.
+
+[![Discord](https://img.shields.io/badge/Discord-Únete_a_nuestra_comunindad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://dawoork.com/discord)
+
+#### 🎥 **Proyectos en Vivo en Twitch**
+Además, te invitamos a seguir nuestros proyectos en vivo a través de Twitch. Estas sesiones en directo son una gran oportunidad para ver la aplicación de técnicas de análisis de datos y programación en tiempo real, y participar activamente en el proceso.
+
+* [**Síguenos en Twitch**](https://www.twitch.tv/dawoork) - No te pierdas nuestras sesiones de proyectos en vivo, donde podrás aprender, interactuar y formar parte de nuestra creciente comunidad de Data Analytics.
+
 
 ### 6️⃣ Arquitectura de software: MVC y MVVM
 La arquitectura de software de nuestro programa hace referencia a cómo se estructura nuestro programa en capas y cuál es la responsabilidad de cada una de las piezas que conforman nuestra App.
