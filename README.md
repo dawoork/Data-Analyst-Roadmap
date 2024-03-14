@@ -193,7 +193,7 @@ La construcción de una red profesional robusta es esencial para el crecimiento 
 * [**Data Science Interview Questions**](https://www.dawoork.com/interview-questions) - Una colección de preguntas frecuentes en entrevistas de ciencia de datos y cómo abordarlas.
 * [**Understanding Business Context**](https://www.dawoork.com/business-context) - Aprende a aplicar conocimientos de ciencia de datos en contextos empresariales específicos.
 
-#### 7️⃣ Habilidades Blandas y Conocimiento del Dominio
+## 7️⃣ Habilidades Blandas y Conocimiento del Dominio
 **Objetivo:** Fortalecer las habilidades de comunicación y colaboración, y profundizar en el conocimiento del dominio específico para resolver problemas de manera efectiva.
 
 #### 📚 **Contenido Esencial**
