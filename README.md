@@ -209,17 +209,18 @@ Este roadmap es solo el comienzo de un viaje emocionante lleno de infinitas posi
 
 [![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
 
-## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
-### Freelance full-stack iOS & Android engineer
+## 👋 Hola, mi nombre es Leandro Araque.
+### Data Analyst - Data Science
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC19UkylFnVp-B3fUvpBTCGA?style=social)](https://www.youtube.com/@dawoork?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/dawoork?style=social)](https://www.twitch.tv/dawoork)
+[![Discord](https://img.shields.io/discord/1175063228993253456?style=social&label=Discord&logo=discord)](http://dawoork.com/discord)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lean_dawoork?style=social)](https://twitter.com/lean_dawoork)
+![GitHub Followers](https://img.shields.io/github/followers/dawoork?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/dawoork?style=social)
 
-Soy ingeniero de software desde hace más de 12 años. Desde hace 4 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
+Soy un Científico de Datos con más de cinco años de experiencia, apasionado por el poder transformador de los datos en empresas de todos los tamaños. **[@mouredev](https://dawoork.com)**.
 
 ### En mi perfil de GitHub tienes más información
 
-[![Web](https://img.shields.io/badge/GitHub-MoureDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
+[![Web](https://img.shields.io/badge/GitHub-MoureDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/dawoork)
