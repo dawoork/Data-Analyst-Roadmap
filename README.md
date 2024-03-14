@@ -179,34 +179,27 @@ Sigue trabajando estos nuevos conceptos:
 * Principios SOLID.
 * Programación en base a código limpio.
 
-### 7️⃣ Funcionalidades
-Implementaciones de características muy habituales en aplicaciones de todo tipo que debes conocer.
+## 6️⃣ Avanzado: Profesionalización y Networking
+**Objetivo:** Desarrollar habilidades de comunicación avanzadas y construir una sólida red profesional que apoye tu carrera en análisis de datos.
 
-* Almacenamiento de datos:
-	* [UserDefaults](https://youtu.be/JLXx4L3wC_w)
-	* [CoreData](https://developer.apple.com/documentation/coredata)
-	* [Realm](https://github.com/realm/realm-swift)
-	* [SQLite](https://github.com/stephencelis/SQLite.swift)
+#### 🤝 **Networking y Desarrollo Profesional**
+La construcción de una red profesional robusta es esencial para el crecimiento en tu carrera de análisis de datos. Te animamos a participar activamente en:
 
-* Conexión con servidor remoto:
-	* [REST](https://restfulapi.net/)
-	* [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-	* [JSON](https://www.json.org/json-en.html)
-	* [Concurrencia y asincronía](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)
+* [**Eventos de la Industria y Webinars**](#) - Mantente al tanto de las últimas tendencias y tecnologías asistiendo a eventos relevantes de la industria y webinars.
+* [**Grupos Profesionales en LinkedIn**](https://www.linkedin.com/) - Únete a grupos profesionales relacionados con análisis de datos para conectar con otros profesionales, compartir conocimientos y descubrir oportunidades de carrera.
 
-* Otras funcionalidades:
-	* Notificaciones PUSH
-	* Registro y Login
-	* [TUTORIAL servicios Firebase](https://youtu.be/1EAA8WgCQas)
+#### 🚀 **Eleva Tu Presencia Profesional**
+* [**Optimiza Tu Perfil de LinkedIn**](#) - Asegúrate de que tu perfil destaque y refleje tus habilidades y experiencia en análisis de datos.
+* [**Crea Contenido Relacionado con Análisis de Datos**](#) - Compartir tus proyectos, insights y aprender en plataformas como Medium o tu blog personal puede aumentar tu visibilidad y establecerte como un experto en la materia.
 
-Gestores de dependencias para ayudarnos a trabajar con código de terceros:
+#### 💬 **Únete a Nuestra Comunidad**
+Recuerda que nuestra comunidad en Discord es un gran lugar para comenzar a construir tu red, compartir tus experiencias y colaborar en proyectos con otros entusiastas de análisis de datos.
 
-* Swift Package Manager (SPM)
-	* [Swift.org](https://www.swift.org/package-manager/)
-	* [TUTORIAL Xcode](https://youtu.be/93YBmQNp_sQ)
-* Cocoa Pods
-	* [CocoaPods.org](https://cocoapods.org/)
-	* [TUTORIAL Xcode](https://youtu.be/qCn6hGqkWyk)
+[![Discord](https://img.shields.io/badge/Discord-Únete_a_nuestra_comunindad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://dawoork.com/discord)
+
+Además, no te pierdas la oportunidad de aprender y colaborar en vivo a través de nuestros streamings en Twitch. Estas plataformas no solo te permitirán adquirir conocimientos y experiencia práctica sino también te ayudarán a expandir tu red profesional en el campo del análisis de datos.
+
+* [**Síguenos en Twitch**](https://www.twitch.tv/dawoork) - Participa en nuestras sesiones en vivo, una oportunidad única para interactuar y crecer profesionalmente.
 
 ### 8️⃣ Esenciales
 Aprender a desarrollar aplicaciones para entornos Apple precisa de otras habilidades esenciales no directamente relacionadas.
