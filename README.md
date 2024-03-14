@@ -219,7 +219,7 @@ Este roadmap es solo el comienzo de un viaje emocionante lleno de infinitas posi
 ![GitHub Followers](https://img.shields.io/github/followers/dawoork?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/dawoork?style=social)
 
-Soy un Científico de Datos con más de cinco años de experiencia, apasionado por el poder transformador de los datos en empresas de todos los tamaños. **[@mouredev](https://dawoork.com)**.
+Soy un Científico de Datos con más de cinco años de experiencia, apasionado por el poder transformador de los datos en empresas de todos los tamaños. **[@dawoork](https://dawoork.com)**.
 
 ### En mi perfil de GitHub tienes más información
 
