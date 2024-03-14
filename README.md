@@ -193,7 +193,23 @@ La construcción de una red profesional robusta es esencial para el crecimiento 
 * [**Data Science Interview Questions**](https://www.dawoork.com/interview-questions) - Una colección de preguntas frecuentes en entrevistas de ciencia de datos y cómo abordarlas.
 * [**Understanding Business Context**](https://www.dawoork.com/business-context) - Aprende a aplicar conocimientos de ciencia de datos en contextos empresariales específicos.
 
+#### 7️⃣ Habilidades Blandas y Conocimiento del Dominio
+**Objetivo:** Fortalecer las habilidades de comunicación y colaboración, y profundizar en el conocimiento del dominio específico para resolver problemas de manera efectiva.
 
+#### 📚 **Contenido Esencial**
+Cursos diseñados para mejorar tu comunicación y colaboración en equipos de ciencia de datos, así como para prepararte para el proceso de entrevistas en ciencia de datos.
+
+* [**Comunicación Efectiva**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Trabajo en Equipo y Colaboración en Proyectos de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Entendiendo el Negocio: Contexto y Aplicación de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Preparación para Entrevistas en Análisis de datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+
+#### 📘 **Documentación y Guías Oficiales**
+Recursos y guías para mejorar tus habilidades blandas y tu preparación para entrevistas en el campo de la ciencia de datos.
+
+* [**Soft Skills for Data Scientists**](https://www.dawoork.com/soft-skills) - Consejos y estrategias para desarrollar habilidades blandas esenciales.
+* [**Data Science Interview Questions**](https://www.dawoork.com/interview-questions) - Una colección de preguntas frecuentes en entrevistas de ciencia de datos y cómo abordarlas.
+* [**Understanding Business Context**](https://www.dawoork.com/business-context) - Aprende a aplicar conocimientos de ciencia de datos en contextos empresariales específicos.
 
 ## La Jornada Continúa - Adaptabilidad y Aprendizaje Continuo en Análisis de Datos
 
