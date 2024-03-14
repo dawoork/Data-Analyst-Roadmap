@@ -183,28 +183,27 @@ La construcción de una red profesional robusta es esencial para el crecimiento 
 * [**Crea Contenido Relacionado con Análisis de Datos**](#) - Compartir tus proyectos, insights y aprender en plataformas como Medium o tu blog personal puede aumentar tu visibilidad y establecerte como un experto en la materia.
 
 
-### 8️⃣ Esenciales
-Aprender a desarrollar aplicaciones para entornos Apple precisa de otras habilidades esenciales no directamente relacionadas.
 
-* Aprende Inglés: La mayor parte de la documentación y código se escribe en este idioma.
-	* [Cambly](https://www.cambly.com/invite/YDVHFWXN?st=011422&sc=4) te permite aprender online con profesores nativos de forma online.
-* [Git](https://git-scm.com/): Es básico saber trabajar con el gestor de versiones más utilizado.
-	* Puedes ayudarte usando clientes gráficos como [GitKraken](https://www.gitkraken.com/invite/cZWhJq1v) (en vez de hacer todo por línea de comandos).
 
-### 9️⃣ Pruebas
-Debes adquirir habilidades de testing y debug para mantener tu código íntegro y libre de errores.
 
-* [TUTORIAL TestFlight](https://youtu.be/bl6LArb-IQU): La plataforma oficial de test de aplicaciones de Apple.
+>## Epílogo: La Jornada Continúa - Adaptabilidad y Aprendizaje Continuo en Análisis de Datos
 
-### 1️⃣0️⃣ Publicación
-Ya sólo falta cómo desplegar aplicaciones en la App Store.
+>Felicidades por alcanzar este punto en tu camino hacia convertirte en un analista de datos competente. Has adquirido una amplia gama de habilidades técnicas, has aprendido a comunicar insights complejos de manera efectiva y has empezado a >construir un portafolio que demuestra tu competencia. Pero recuerda, el campo del análisis de datos, como el mundo digital, evoluciona constantemente. La adaptabilidad y el aprendizaje continuo son indispensables en tu carrera.
 
-* [TUTORIAL App Store](https://youtu.be/tg6YcD52jNA)
+>### Claves para un Crecimiento Continuo:
+>- **Cultiva la Curiosidad:** Mantén una mente inquisitiva. La curiosidad impulsa el aprendizaje continuo, animándote a explorar y cuestionar.
+>- **Mantente Actualizado:** Dedica tiempo a seguir las tendencias actuales en análisis de datos, mediante blogs, newsletters, webinars y redes sociales.
+>- **Participa en la Comunidad:** Únete a foros, grupos de LinkedIn y plataformas como Kaggle. El intercambio de conocimientos enriquece tu desarrollo profesional y personal.
+>- **Acepta el Cambio:** La disposición para adaptarte y aprender nuevas herramientas es esencial para permanecer relevante en este campo dinámico.
+>- **Proyectos Experimentales:** Sigue desafiándote con proyectos que implementen nuevas tecnologías o enfoques. Enriquecen tu portafolio y habilidades.
+>- **Educación Continua:** Aprovecha cursos y certificaciones para profundizar o expandir tu conocimiento. La educación es un viaje sin fin.
+>- **Reflexión y Reevaluación:** Tómate un momento regularmente para reflexionar sobre tu progreso y ajustar tus objetivos profesionales según sea necesario.
 
-⬇️ **BOLA EXTRA:** [Descarga](https://github.com/mouredev/StarWarsXcodeTheme) el tema y la fuente que uso en Xcode, tanto en modo claro como oscuro.
+Este roadmap es solo el comienzo de un viaje emocionante lleno de infinitas posibilidades. Tu perseverancia, curiosidad y pasión por el aprendizaje te guiarán hacia el éxito. Continúa avanzando con confianza, sabiendo que cada desafío es una oportunidad para crecer y cada obstáculo, un paso hacia tu próximo logro.
 
-> Este es el roadmap básico para convertirse en Apple Developer. No olvides hacer ⭐️ para seguir sus futuras actualizaciones.
-> Ayúdame a mejorar con tu feedback ¡MUCHAS GRACIAS!
+**¡Únete a nuestra comunidad y continúa tu aprendizaje con nosotros!**
+[![Discord](https://img.shields.io/badge/Discord-Únete_a_nuestra_comunindad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://dawoork.com/discord)
+
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
