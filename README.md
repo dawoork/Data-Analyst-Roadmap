@@ -118,16 +118,36 @@ Domina las herramientas que te ayudaran a contar las historia que los datos tien
 
 Recuerda que la elección entre Python y R dependerá de tus preferencias personales, el contexto de tus proyectos y, en algunos casos, las especificaciones del sector al que te dirijas. Ambos lenguajes tienen comunidades de soporte extensas y recursos de aprendizaje ricos que facilitarán tu viaje en el análisis de datos.
 
-### 4️⃣ Guías de desarrollo y diseño
-La documentación oficial de Apple es esencial para conocer sus normas, recomendaciones y procesos.
+## 4️⃣ Control de vesiones, Metodologías Ágiles y Cloud Computing
+**Objetivo:** Ampliar conocimientos en control de versiones, colaboración, metodologías ágiles y tecnologías de Cloud Computing, fundamentales para proyectos modernos de análisis de datos.
 
-* [Guía de desarrollo oficial](https://developer.apple.com/app-store/guidelines/)
-* [Guía de diseño oficial](https://developer.apple.com/design/human-interface-guidelines/)
+#### 🔄 **Control de Versiones y Colaboración**
+* [**¿Qué es el control de versiones y colaboración?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**¿Qué es Git y cómo usarlo - Desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**¿Qué es GitHub y cómo usarlo - Desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**¿Qué es GitLab y cómo usarlo - Desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 
-No olvides la importancia de los siguiente conceptos:
+#### 🔄 **Metodologías Ágiles**
+* [**¿Qué son las metodologías ágiles?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**¿Qué es Scrum y cómo aplicarlo?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 
-* Comentarios de código.
-* [Markdown](https://www.markdownguide.org/) como lenguaje marcador para generar documentación.
+#### ☁️ **Cloud Computing**
+* [**Introducción al Cloud Computing**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**Azure para Data Analyst - Desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**Google Cloud para Data Analyst - Desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**AWS para Data Analyst - Desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+
+#### 📝 **Documentación y Guías Oficiales**
+* [Scrum Guides](https://www.scrumguides.org/)
+* [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/)
+* [Google Cloud Documentation](https://cloud.google.com/docs)
+* [Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
+* [Documentación Oficial de Git](https://git-scm.com/doc)
+* [Guía de Usuario de GitHub](https://docs.github.com/en/github/getting-started-with-github)
+* [Documentación Oficial de GitLab](https://docs.gitlab.com/)
+
+
+
 
 ### 5️⃣ Patrones de diseño
 Mecanismos para resolver de forma elegante problemas comunes en programación
