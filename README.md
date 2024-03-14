@@ -134,9 +134,9 @@ Recuerda que la elección entre Python y R dependerá de tus preferencias person
 
 #### ☁️ **Cloud Computing**
 * [**Introducción al Cloud Computing**](https://www.youtube.com/@dawoork) - Duración: X Minutos
-* [**Azure para Data Analyst - Desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
-* [**Google Cloud para Data Analyst - Desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
-* [**AWS para Data Analyst - Desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**AWS para Data**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Azure para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Google Cloud para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
 
 #### 📝 **Documentación y Guías Oficiales**
 * [Scrum Guides](https://www.scrumguides.org/)
@@ -178,12 +178,20 @@ La construcción de una red profesional robusta es esencial para el crecimiento 
 
 * [**Eventos de la Industria y Webinars**](#) - Mantente al tanto de las últimas tendencias y tecnologías asistiendo a eventos relevantes de la industria y webinars.
 * [**Grupos Profesionales en LinkedIn**](https://www.linkedin.com/) - Únete a grupos profesionales relacionados con análisis de datos para conectar con otros profesionales, compartir conocimientos y descubrir oportunidades de carrera.
+* [**Comunicación Efectiva**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Trabajo en Equipo y Colaboración en Proyectos de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Entendiendo el Negocio: Contexto y Aplicación de Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Preparación para Entrevistas en Data Analyst**](https://youtu.be/@dawoork) - Duración: X Minutos
 
 #### 🚀 **Eleva Tu Presencia Profesional**
 * [**Optimiza Tu Perfil de LinkedIn**](#) - Asegúrate de que tu perfil destaque y refleje tus habilidades y experiencia en análisis de datos.
 * [**Crea Contenido Relacionado con Análisis de Datos**](#) - Compartir tus proyectos, insights y aprender en plataformas como Medium o tu blog personal puede aumentar tu visibilidad y establecerte como un experto en la materia.
 
+#### 📘 **Documentación y Guías Oficiales**
 
+* [**Soft Skills for Data Scientists**](https://www.dawoork.com/soft-skills) - Consejos y estrategias para desarrollar habilidades blandas esenciales.
+* [**Data Science Interview Questions**](https://www.dawoork.com/interview-questions) - Una colección de preguntas frecuentes en entrevistas de ciencia de datos y cómo abordarlas.
+* [**Understanding Business Context**](https://www.dawoork.com/business-context) - Aprende a aplicar conocimientos de ciencia de datos en contextos empresariales específicos.
 
 
 
