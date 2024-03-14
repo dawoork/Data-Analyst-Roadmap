@@ -77,7 +77,8 @@ Comprende la importancia de la visualización de datos y aprende a usar herramie
 #### 📝 **Documentación y Guías Oficiales: Storytelling con Datos**
 El arte de contar historias con datos es crucial para comunicar insights de manera que sean comprendidos y accionables. Estos recursos te ayudarán a dominar esta habilidad esencial.
 
-* [**Storytelling para la Visualización de Datos**](https://www.storytellingwithdata.com/) - Consejos, ejemplos y mejores prácticas para contar historias con tus datos.
+* [**Tableau Learning**](https://www.tableau.com/learn) - Recursos de aprendizaje oficiales de Tableau para crear visualizaciones impactantes.
+* [**Power BI Documentation**](https://docs.microsoft.com/en-us/power-bi/) - Documentación oficial de Power BI para aprender a crear soluciones de BI.
 
 #### 🌟 **Recurso Destacado para Power BI**
 Domina las herramientas que te ayudaran a contar las historia que los datos tienen...
