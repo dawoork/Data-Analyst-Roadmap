@@ -182,14 +182,6 @@ La construcción de una red profesional robusta es esencial para el crecimiento 
 * [**Optimiza Tu Perfil de LinkedIn**](#) - Asegúrate de que tu perfil destaque y refleje tus habilidades y experiencia en análisis de datos.
 * [**Crea Contenido Relacionado con Análisis de Datos**](#) - Compartir tus proyectos, insights y aprender en plataformas como Medium o tu blog personal puede aumentar tu visibilidad y establecerte como un experto en la materia.
 
-#### 💬 **Únete a Nuestra Comunidad**
-Recuerda que nuestra comunidad en Discord es un gran lugar para comenzar a construir tu red, compartir tus experiencias y colaborar en proyectos con otros entusiastas de análisis de datos.
-
-[![Discord](https://img.shields.io/badge/Discord-Únete_a_nuestra_comunindad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://dawoork.com/discord)
-
-Además, no te pierdas la oportunidad de aprender y colaborar en vivo a través de nuestros streamings en Twitch. Estas plataformas no solo te permitirán adquirir conocimientos y experiencia práctica sino también te ayudarán a expandir tu red profesional en el campo del análisis de datos.
-
-* [**Síguenos en Twitch**](https://www.twitch.tv/dawoork) - Participa en nuestras sesiones en vivo, una oportunidad única para interactuar y crecer profesionalmente.
 
 ### 8️⃣ Esenciales
 Aprender a desarrollar aplicaciones para entornos Apple precisa de otras habilidades esenciales no directamente relacionadas.
