@@ -2,7 +2,7 @@
 ## Ruta de aprendizaje desde cero para convertirte en Data Analyst 2024
 > ℹ️ He creado este repositorio para actualizarlo continuamente con recursos de aprendizaje de dentro y fuera de la comunidad.
 >  
-> ⚠️ **IMPORTANTE:** No dudes en sugerir [cambios](https://github.com/dawoork/Data-Analytics-Roadmap/discussions), hacer [pull request](https://github.com/dawoork/Data-Analytics-Roadmap/pulls) o crear una nueva [issue](https://github.com/dawoork/Data-Analytics-Roadmap/issues) para compartir tus recursos y así añadirlos al repo con intención de crear una gran guía de estudio.
+> ⚠️ **Tu Voz Importa:**  Este roadmap es un recurso vivo, enriquecido por las contribuciones y feedback de la comunidad. Cada sugerencia y mejora propuesta se toma en cuenta para asegurar que este recurso sea lo más valioso posible para todos. Anímate a compartir tus ideas y comentarios a través [cambios](https://github.com/dawoork/Data-Analytics-Roadmap/discussions), hacer [pull request](https://github.com/dawoork/Data-Analytics-Roadmap/pulls) o crear una nueva [issue](https://github.com/dawoork/Data-Analytics-Roadmap/issues) para compartir tus recursos y así añadirlos al repo con intención de crear una gran guía de estudio.
 
 ## Introducción
 
@@ -118,7 +118,7 @@ Domina las herramientas que te ayudaran a contar las historia que los datos tien
 
 Recuerda que la elección entre Python y R dependerá de tus preferencias personales, el contexto de tus proyectos y, en algunos casos, las especificaciones del sector al que te dirijas. Ambos lenguajes tienen comunidades de soporte extensas y recursos de aprendizaje ricos que facilitarán tu viaje en el análisis de datos.
 
-## 4️⃣ Control de vesiones, Metodologías Ágiles y Cloud Computing
+## 4️⃣ Control de versiones, Metodologías Ágiles y Cloud Computing
 **Objetivo:** Ampliar conocimientos en control de versiones, colaboración, metodologías ágiles y tecnologías de Cloud Computing, fundamentales para proyectos modernos de análisis de datos.
 
 #### 🔄 **Control de Versiones y Colaboración**
