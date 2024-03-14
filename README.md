@@ -168,18 +168,8 @@ Además, te invitamos a seguir nuestros proyectos en vivo a través de Twitch. E
 * [**Síguenos en Twitch**](https://www.twitch.tv/dawoork) - No te pierdas nuestras sesiones de proyectos en vivo, donde podrás aprender, interactuar y formar parte de nuestra creciente comunidad de Data Analytics.
 
 
-### 6️⃣ Arquitectura de software: MVC y MVVM
-La arquitectura de software de nuestro programa hace referencia a cómo se estructura nuestro programa en capas y cuál es la responsabilidad de cada una de las piezas que conforman nuestra App.
 
-* MVC (Modelo-Vista-Controlador): Arquitectura básica.
-* MVVM (Modelo-Vista-VistaModelo): Arquitectura más avanzada.
-
-Sigue trabajando estos nuevos conceptos:
-
-* Principios SOLID.
-* Programación en base a código limpio.
-
-## 6️⃣ Avanzado: Profesionalización y Networking
+## 6️⃣ Profesionalización y Networking
 **Objetivo:** Desarrollar habilidades de comunicación avanzadas y construir una sólida red profesional que apoye tu carrera en análisis de datos.
 
 #### 🤝 **Networking y Desarrollo Profesional**
