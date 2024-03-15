@@ -8,7 +8,9 @@
 
 <a href="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa_v2.jpg"><img src="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa_v3.jpg" style="height: 50%; width:50%;"/></a>
 
-**▶️ Antes de empezar te servirá de ayuda ver una introducción detallada donde explico el roadmap y el funcionamiento del repositorio en mi tutorial de [YouTube](https://youtu.be/@dawoork).Tambien te dejo un video para que puedas entender las diferencias entre un Data Analyst y un Data Scientist </br> [Data Analyst o Data Scientist](https://youtu.be/@dawoork)**
+**▶️ Antes de empezar te servirá de ayuda ver una introducción detallada donde explico el roadmap y el funcionamiento del repositorio en mi tutorial de [YouTube](https://youtu.be/@dawoork).**
+
+**Tambien te dejo un video para que puedas entender las diferencias entre un Data Analyst y un Data Scientist </br> [Data Analyst o Data Scientist](https://youtu.be/@dawoork)**
 
 🤖 Si estas buscando un roadmap enfocado al Data Science.
 
