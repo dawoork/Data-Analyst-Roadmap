@@ -151,7 +151,6 @@ Recuerda que la elección entre Python y R dependerá de tus preferencias person
 * [Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
 * [Documentación Oficial de Git](https://git-scm.com/doc)
 * [Guía de Usuario de GitHub](https://docs.github.com/en/github/getting-started-with-github)
-* [Documentación Oficial de GitLab](https://docs.gitlab.com/)
 
 
 
