@@ -133,7 +133,6 @@ Recuerda que la elección entre Python y R dependerá de tus preferencias person
 * [**¿Qué es el control de versiones y colaboración?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 * [**¿Qué es Git? cómo usarlo desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 * [**¿Qué es GitHub? cómo usarlo desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
-* [**¿Qué es GitLab? cómo usarlo desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 
 #### 🔄 **Metodologías Ágiles**
 * [**¿Qué son las metodologías ágiles?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
