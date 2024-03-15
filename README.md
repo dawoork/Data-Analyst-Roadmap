@@ -145,10 +145,11 @@ Recuerda que la elección entre Python y R dependerá de tus preferencias person
 * [Guía de Usuario de GitHub](https://docs.github.com/en/github/getting-started-with-github)
 
 
-## 5️⃣ Cloud Computing
+## 5️⃣ Big data y Cloud Computing
 **Objetivo:** Ampliar conocimientos y habilidades en el manejo de grandes volúmenes de datos utilizando herramientas y plataformas de Big Data, así como aprender a gestionar datos en la nube.
 
 * [**Introducción al Cloud Computing**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**Introducción al Big Data con Hadoop y Spark**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**AWS para Data**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Azure para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
 * [**Google Cloud para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
