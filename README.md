@@ -138,19 +138,12 @@ Recuerda que la elección entre Python y R dependerá de tus preferencias person
 * [**¿Qué son las metodologías ágiles?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 * [**¿Qué es Scrum y cómo aplicarlo?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 
-#### ☁️ **Cloud Computing**
-* [**Introducción al Cloud Computing**](https://www.youtube.com/@dawoork) - Duración: X Minutos
-* [**AWS para Data**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**Azure para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
-* [**Google Cloud para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
 
 #### 📝 **Documentación y Guías Oficiales**
 * [Scrum Guides](https://www.scrumguides.org/)
-* [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/)
-* [Google Cloud Documentation](https://cloud.google.com/docs)
-* [Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
 * [Documentación Oficial de Git](https://git-scm.com/doc)
 * [Guía de Usuario de GitHub](https://docs.github.com/en/github/getting-started-with-github)
+
 
 ## 5️⃣ Big Data y Cloud Computing
 **Objetivo:** Ampliar conocimientos y habilidades en el manejo de grandes volúmenes de datos utilizando herramientas y plataformas de Big Data, así como aprender a gestionar datos en la nube.
