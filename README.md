@@ -8,9 +8,12 @@
 
 <a href="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa_v2.jpg"><img src="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa_v3.jpg" style="height: 50%; width:50%;"/></a>
 
+¿Tienes dudas de lo que hace un analista de datos?  Te dejo un video donde explico a detalle [**¿Análista de datos?**](https://youtu.be/@dawoork) 
+
+Tambien te dejo un video para que puedas entender las diferencias entre un Data Analyst y un Data Scientist [Data Analyst o Data Scientist](https://youtu.be/@dawoork)
+
 **▶️ Antes de empezar te servirá de ayuda ver una introducción detallada donde explico el roadmap y el funcionamiento del repositorio en mi tutorial de [YouTube](https://youtu.be/@dawoork).**
 
-**Tambien te dejo un video para que puedas entender las diferencias entre un Data Analyst y un Data Scientist [Data Analyst o Data Scientist](https://youtu.be/@dawoork)**
 
 🤖 Si estas buscando un roadmap enfocado al Data Science.
 
@@ -47,7 +50,6 @@ Este roadmap combina recursos oficiales, contenidos creados por mí y recomendac
 #### 📚 **Contenido Esencial (Mis Videos)**
 Aquí encontrarás videos creados por mí, diseñados para darte una introducción sólida y práctica al mundo del análisis de datos.
 
-* [**¿Qué es el Análisis de datos?**](https://youtu.be/@dawoork) - Duración: X Minutos 
 * [**Estadística Básica para Data Analytics**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
 * [**Dominando Hojas de Cálculo**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
 * [**SQL desde Cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
