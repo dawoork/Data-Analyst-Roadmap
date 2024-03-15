@@ -88,7 +88,8 @@ Domina las herramientas que te ayudaran a contar las historia que los datos tien
 
 ## 3️⃣ Programación Python o R
 **Objetivo:** Desarrollar habilidades de programación en Python o R para análisis de datos y visualización, aprovechando herramientas y bibliotecas especializadas.
-
+* [**Python Para Data Analyst**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**R Para Data Analyst**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 * [**¿Python o R?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 
 ### 🐍 **Python para Análisis de Datos**
