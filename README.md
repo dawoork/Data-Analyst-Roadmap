@@ -152,10 +152,30 @@ Recuerda que la elección entre Python y R dependerá de tus preferencias person
 * [Documentación Oficial de Git](https://git-scm.com/doc)
 * [Guía de Usuario de GitHub](https://docs.github.com/en/github/getting-started-with-github)
 
+## 5️⃣ Big Data y Cloud Computing
+**Objetivo:** Ampliar conocimientos y habilidades en el manejo de grandes volúmenes de datos utilizando herramientas y plataformas de Big Data, así como aprender a gestionar datos en la nube.
+
+* [**Introducción al Cloud Computing**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**Introducción al Big Data con Hadoop y Spark**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**AWS para Data**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Azure para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+* [**Google Cloud para  Datos**](https://youtu.be/@dawoork) - Duración: X Minutos
+
+
+#### 📝 **Documentación y Guías Oficiales**
+
+* [**Hadoop Documentation**](https://hadoop.apache.org/docs/r3.2.1/) 
+* [**Spark Documentation**](https://spark.apache.org/docs/latest/) 
+* [**AWS Big Data**](https://aws.amazon.com/big-data/) 
+* [**Azure Data & AI**](https://azure.microsoft.com/en-us/overview/data-platform/) 
+* [**Google Cloud Training**](https://cloud.google.com/training/data-ml)
+* [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/)
+* [Google Cloud Documentation](https://cloud.google.com/docs)
+* [Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/?product=featured)
 
 
 
-## 5️⃣ Proyectos y Experiencia Práctica
+## 6️⃣ Proyectos y Experiencia Práctica
 **Objetivo:** Poner en práctica los conocimientos adquiridos mediante la implementación en proyectos reales y la construcción de un portafolio sólido.
 
 #### 💡 **Proyectos Personales y Colaborativos**
@@ -175,7 +195,7 @@ Además, te invitamos a seguir nuestros proyectos en vivo a través de Twitch. E
 
 
 
-## 6️⃣ Profesionalización y Networking
+## 7️⃣ Profesionalización y Networking
 **Objetivo:** Desarrollar habilidades de comunicación avanzadas y construir una sólida red profesional que apoye tu carrera en análisis de datos.
 
 #### 🤝 **Networking y Desarrollo Profesional**
@@ -198,7 +218,7 @@ La construcción de una red profesional robusta es esencial para el crecimiento 
 * [**Data Science Interview Questions**](https://www.dawoork.com/interview-questions) - Una colección de preguntas frecuentes en entrevistas de ciencia de datos y cómo abordarlas.
 * [**Understanding Business Context**](https://www.dawoork.com/business-context) - Aprende a aplicar conocimientos de ciencia de datos en contextos empresariales específicos.
 
-## 7️⃣ Habilidades Blandas y Conocimiento del Dominio
+## 8️⃣ Habilidades Blandas y Conocimiento del Dominio
 **Objetivo:** Fortalecer las habilidades de comunicación y colaboración, y profundizar en el conocimiento del dominio específico para resolver problemas de manera efectiva.
 
 #### 📚 **Contenido Esencial**
