@@ -126,13 +126,36 @@ Domina las herramientas que te ayudaran a contar las historia que los datos tien
 
 Recuerda que la elección entre Python y R dependerá de tus preferencias personales, el contexto de tus proyectos y, en algunos casos, las especificaciones del sector al que te dirijas. Ambos lenguajes tienen comunidades de soporte extensas y recursos de aprendizaje ricos que facilitarán tu viaje en el análisis de datos.
 
-## 4️⃣ Control de versiones, Metodologías Ágiles y Cloud Computing
+## 4️⃣ 🤖 Automatización en Análisis de Datos con Python
+**Objetivo:** Proporcionar a los analistas de datos las competencias necesarias para automatizar procesos analíticos, desde la recopilación de datos hasta la generación de informes, utilizando Python. Esto incluye la automatización de tareas repetitivas, la implementación de modelos predictivos y la creación de visualizaciones e informes dinámicos.
+
+#### 📚 **Contenido Esencial (Mis Videos)**
+Explora bibliotecas y módulos de Python diseñados para facilitar la automatización de las tareas más comunes en análisis de datos.
+
+* [**Automatizando la Limpieza de Datos con Pandas (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**Scheduling de Tareas de Análisis con Airflow (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**Automatización de Informes con Python (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+
+#### 📘 **Documentación y Guías Oficiales**
+Fuentes oficiales y documentación para profundizar en las herramientas y tecnologías de análisis de datos.
+
+* [**Documentación de Pandas**](https://pandas.pydata.org/pandas-docs/stable/) - Un recurso completo para dominar la automatización de la manipulación de datos con Pandas.
+* [**Guía de Usuario de Apache Airflow:**](https://airflow.apache.org/docs/apache-airflow/stable/) - Aprende cómo configurar y utilizar Airflow para automatizar y optimizar tus flujos de trabajo de datos.
+* [**Documentación de Dash para la creación de dashboards interactivos**](https://dash.plotly.com/) - Introducción a la creación de aplicaciones web interactivas para informes automatizados con Dash.
+
+#### 💡 **Curso Recomendado - Impulsa Tu Aprendizaje**
+ Este curso proporciona formación intensiva en herramientas de automatización usando Python, incluyendo proyectos prácticos que te permitirán aplicar lo aprendido en situaciones reales. 
+
+* [**🌟 Maestría en Automatización de Análisis de Datos con Pythons**](https://www.udemy.com) - Aprende a detalle y la práctica con proyectos reales. Duración: X Minutos.
+
+
+## 5️⃣ Control de versiones, Metodologías Ágiles y Cloud Computing
 **Objetivo:** Ampliar conocimientos en control de versiones, colaboración, metodologías ágiles y tecnologías de Cloud Computing, fundamentales para proyectos modernos de análisis de datos.
 
 #### 🔄 **Control de Versiones y Colaboración**
-* [**¿Qué es el control de versiones y colaboración?**](https://youtu.be/e611aR8W3Ns?si=h0my-QL1a9ZbOIXd) - Duración: X Minutos
-* [**¿Qué es Git? cómo usarlo**](https://youtu.be/e611aR8W3Ns?si=h0my-QL1a9ZbOIXd) - Duración: X Minutos
-* [**¿Qué es GitHub? cómo usarlo**](https://youtu.be/e611aR8W3Ns?si=h0my-QL1a9ZbOIXd) - Duración: X Minutos
+* [**¿Qué es el control de versiones y colaboración?**](https://youtu.be/e611aR8W3Ns?si=h0my-QL1a9ZbOIXd) - Duración: 26:27 Minutos
+* [**¿Qué es Git? cómo usarlo**](https://youtu.be/e611aR8W3Ns?si=h0my-QL1a9ZbOIXd) - Duración: 26:27 Minutos
+* [**¿Qué es GitHub? cómo usarlo**](https://youtu.be/e611aR8W3Ns?si=h0my-QL1a9ZbOIXd) - Duración: 26:27 Minutos
 
 #### 🔄 **Metodologías Ágiles**
 * [**¿Qué son las metodologías ágiles?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
@@ -145,7 +168,7 @@ Recuerda que la elección entre Python y R dependerá de tus preferencias person
 * [Guía de Usuario de GitHub](https://docs.github.com/en/github/getting-started-with-github)
 
 
-## 5️⃣ Big data y Cloud Computing
+## 6️⃣ Big data y Cloud Computing
 **Objetivo:** Ampliar conocimientos y habilidades en el manejo de grandes volúmenes de datos utilizando herramientas y plataformas de Big Data, así como aprender a gestionar datos en la nube.
 
 * [**Introducción al Cloud Computing**](https://www.youtube.com/@dawoork) - Duración: X Minutos
@@ -168,7 +191,7 @@ Recuerda que la elección entre Python y R dependerá de tus preferencias person
 
 
 
-## 6️⃣ Proyectos y Experiencia Práctica
+## 7️⃣ Proyectos y Experiencia Práctica
 **Objetivo:** Poner en práctica los conocimientos adquiridos mediante la implementación en proyectos reales y la construcción de un portafolio sólido.
 
 #### 💡 **Proyectos Personales y Colaborativos**
@@ -188,7 +211,7 @@ Además, te invitamos a seguir nuestros proyectos en vivo a través de Twitch. E
 
 
 
-## 7️⃣ Profesionalización y Networking
+## 8️⃣ Profesionalización y Networking
 **Objetivo:** Desarrollar habilidades de comunicación avanzadas y construir una sólida red profesional que apoye tu carrera en análisis de datos.
 
 #### 🤝 **Networking y Desarrollo Profesional**
@@ -211,7 +234,7 @@ La construcción de una red profesional robusta es esencial para el crecimiento 
 * [**Data Science Interview Questions**](https://www.dawoork.com/interview-questions) - Una colección de preguntas frecuentes en entrevistas de ciencia de datos y cómo abordarlas.
 * [**Understanding Business Context**](https://www.dawoork.com/business-context) - Aprende a aplicar conocimientos de ciencia de datos en contextos empresariales específicos.
 
-## 8️⃣ Habilidades Blandas y Conocimiento del Dominio
+## 9️⃣ Habilidades Blandas y Conocimiento del Dominio
 **Objetivo:** Fortalecer las habilidades de comunicación y colaboración, y profundizar en el conocimiento del dominio específico para resolver problemas de manera efectiva.
 
 #### 📚 **Contenido Esencial**
