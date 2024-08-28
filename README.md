@@ -50,9 +50,9 @@ Este roadmap combina recursos oficiales, contenidos creados por mí y recomendac
 #### 📚 **Contenido Esencial (Mis Videos)**
 Aquí encontrarás videos creados por mí, diseñados para darte una introducción sólida y práctica al mundo del análisis de datos.
 
-* [**Estadística Básica para Data Analytics**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
-* [**Dominando Hojas de Cálculo**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
-* [**SQL desde Cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**Estadística Básica para Data Analytics (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**Hojas de Cálculo (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**Uso de SQL(Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
 
 #### 📘 **Documentación y Guías Oficiales**
 Fuentes oficiales y documentación para profundizar en las herramientas y tecnologías de análisis de datos.
@@ -66,7 +66,7 @@ Fuentes oficiales y documentación para profundizar en las herramientas y tecnol
 #### 💡 **Curso Recomendado - Impulsa Tu Aprendizaje**
 Para aquellos que buscan llevar sus habilidades de SQL a un nuevo nivel, este curso especializado en proyectos para tu portafolio vale la pena. 
 
-* [**🌟 SQL desde Cero**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
+* [**🌟 SQL desde Cero - 3 proyectos Prácticos**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
 
 
 ## 2️⃣ Storytelling y herramientas de visualización
@@ -75,9 +75,9 @@ Para aquellos que buscan llevar sus habilidades de SQL a un nuevo nivel, este cu
 #### 📊 **Herramientas de Visualización de Datos**
 Comprende la importancia de la visualización de datos y aprende a usar herramientas avanzadas como Power BI y Tableau para crear representaciones visuales que comuniquen los hallazgos de manera efectiva.
 
-* [**¿Qué es el Storytelling? Cómo contar historias con datos**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
-* [**Power Bi desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
-* [**Tableau desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**¿Qué es el Storytelling? Cómo contar historias con datos (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**Power Bi (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
+* [**Tableau (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos 
 
 
 #### 📝 **Documentación y Guías Oficiales: Storytelling con Datos**
@@ -89,23 +89,23 @@ El arte de contar historias con datos es crucial para comunicar insights de mane
 #### 🌟 **Recurso Destacado para Power BI**
 Domina las herramientas que te ayudaran a contar las historia que los datos tienen...
 
-* [**Power Bi desde cero - 3 Proyectos Prácticos Udemy**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
-* [**Tableau desde cero - 3 Proyectos Prácticos Udemy**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
+* [**Power Bi desde cero - 3 Proyectos Prácticos**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
+* [**Tableau desde cero - 3 Proyectos Prácticos**](https://www.udemy.com) - Aprende mediante la práctica con proyectos reales. Duración: X Minutos.
 
 ## 3️⃣ Programación Python o R
 **Objetivo:** Desarrollar habilidades de programación en Python o R para análisis de datos y visualización, aprovechando herramientas y bibliotecas especializadas.
-* [**Python Para Data Analyst**](https://www.youtube.com/@dawoork) - Duración: X Minutos
-* [**R Para Data Analyst**](https://www.youtube.com/@dawoork) - Duración: X Minutos
-* [**¿Python o R?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**Python Para Data Analyst (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**R Para Data Analyst (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**¿Python o R? (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 
 ### 🐍 **Python para Análisis de Datos**
-* [**Python para análisis de datos desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
-* [**Visualización de Datos con Matplotlib y Seaborn**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**Python para análisis de datos (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**Visualización de Datos con Matplotlib y Seaborn (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 
 
 #### 📊 **R para Análisis de Datos**
-* [**R para análisis de datos desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
-* [**Creando Visualizaciones Impactantes con ggplot2**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**R para análisis de datos (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**Creando Visualizaciones Impactantes con ggplot2 (Caso Practico)**](https://www.youtube.com/@dawoork) - Duración: X Minutos
 
 
 #### 📝 **Documentación y Guías Oficiales**
@@ -121,8 +121,8 @@ Domina las herramientas que te ayudaran a contar las historia que los datos tien
 * [ggplot2 Docs](https://ggplot2.tidyverse.org/)
   
 #### 📈 **Práctica con Proyectos**
-* [**🌟 Python desde Cero - 3 Proyectos Prácticos en Udemy**](https://www.udemy.com) - Duración: X Minutos
-* [**🌟 R desde Cero - 3 Proyectos Prácticos en Udemy**](https://www.udemy.com) - Duración: X Minutos
+* [**🌟 Python desde Cero - 3 Proyectos Prácticos**](https://www.udemy.com) - Duración: X Minutos
+* [**🌟 R desde Cero - 3 Proyectos Prácticos**](https://www.udemy.com) - Duración: X Minutos
 
 Recuerda que la elección entre Python y R dependerá de tus preferencias personales, el contexto de tus proyectos y, en algunos casos, las especificaciones del sector al que te dirijas. Ambos lenguajes tienen comunidades de soporte extensas y recursos de aprendizaje ricos que facilitarán tu viaje en el análisis de datos.
 
@@ -130,9 +130,9 @@ Recuerda que la elección entre Python y R dependerá de tus preferencias person
 **Objetivo:** Ampliar conocimientos en control de versiones, colaboración, metodologías ágiles y tecnologías de Cloud Computing, fundamentales para proyectos modernos de análisis de datos.
 
 #### 🔄 **Control de Versiones y Colaboración**
-* [**¿Qué es el control de versiones y colaboración?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
-* [**¿Qué es Git? cómo usarlo desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
-* [**¿Qué es GitHub? cómo usarlo desde cero**](https://www.youtube.com/@dawoork) - Duración: X Minutos
+* [**¿Qué es el control de versiones y colaboración?**](https://youtu.be/e611aR8W3Ns?si=h0my-QL1a9ZbOIXd) - Duración: X Minutos
+* [**¿Qué es Git? cómo usarlo**](https://youtu.be/e611aR8W3Ns?si=h0my-QL1a9ZbOIXd) - Duración: X Minutos
+* [**¿Qué es GitHub? cómo usarlo**](https://youtu.be/e611aR8W3Ns?si=h0my-QL1a9ZbOIXd) - Duración: X Minutos
 
 #### 🔄 **Metodologías Ágiles**
 * [**¿Qué son las metodologías ágiles?**](https://www.youtube.com/@dawoork) - Duración: X Minutos
