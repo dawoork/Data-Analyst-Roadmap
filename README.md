@@ -8,7 +8,7 @@
 
 <a href="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa_v2.jpg"><img src="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa_v3.jpg" style="height: 50%; width:50%;"/></a>
 
-¿Tienes dudas de lo que hace un analista de datos?  Te dejo un video donde explico a detalle [**¿Análista de datos?**](https://youtu.be/imzuVGLQ3_E?si=dcMl9uHHgv8eZHdw)
+¿Tienes dudas de lo que hace un analista de datos?  Te dejo un video donde explico a detalle [**¿Análista de datos?**](https://youtu.be/imzuVGLQ3_E?si=dcMl9uHHgv8eZHdw){:target="_blank"}  
 
 Tambien te dejo un video para que puedas entender las diferencias entre un Data Analyst y un Data Scientist [**Data Analyst o Data Scientist**](https://youtu.be/5y3zVHjdnBQ?si=rQc1SGrGJ6enjStf)
 
