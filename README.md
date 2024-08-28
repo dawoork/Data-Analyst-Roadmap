@@ -8,13 +8,15 @@
 
 <a href="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa_v2.jpg"><img src="https://github.com/dawoork/Data-Data-Analyst-Roadmap/blob/main/roadmap_data_analyst_alfa_v3.jpg" style="height: 50%; width:50%;"/></a>
 
-¿Tienes dudas de lo que hace un analista de datos?  Te dejo un video donde explico a detalle [**¿Análista de datos?**](https://youtu.be/imzuVGLQ3_E?si=dcMl9uHHgv8eZHdw){:target="_blank"}  
+¿Tienes dudas de lo que hace un analista de datos?  Te dejo un video donde explico a detalle [**¿Análista de datos?**](https://youtu.be/imzuVGLQ3_E?si=dcMl9uHHgv8eZHdw)
 
 Tambien te dejo un video para que puedas entender las diferencias entre un Data Analyst y un Data Scientist [**Data Analyst o Data Scientist**](https://youtu.be/5y3zVHjdnBQ?si=rQc1SGrGJ6enjStf)
 
 **▶️ Antes de empezar te servirá de ayuda ver una introducción detallada donde explico el roadmap y el funcionamiento del repositorio en mi tutorial de [YouTube](https://youtu.be/@dawoork).**
 
-
+- **Estadística Básica para Data Analytics (Caso Práctico)**  
+  [Ver Video](https://www.youtube.com/@dawoork){:target="_blank"}
+  
 🤖 Si estas buscando un roadmap enfocado al Data Science.
 
 [![Data Science Roadmap](https://img.shields.io/github/stars/dawoork/Data-Science-Roadmap?label=Data%20Science%20Roadmap&style=social)](https://github.com/dawoork/Data-Science-Roadmap)
