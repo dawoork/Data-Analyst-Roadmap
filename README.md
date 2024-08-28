@@ -21,7 +21,7 @@ Tambien te dejo un video para que puedas entender las diferencias entre un Data 
 
 
 ## Proceso de aprendizaje
-Debes entender que aprender programación es una carrera de fondo. Tendrás mejores y peores momentos, pero, ¿sabes qué? **¡Le pasa a todo el mundo!**. Al final del trayecto te espera un sector lleno de grandes oportunidades. Te recomiendo que te unas a nuestro servidor de Discord, donde compartimos recursos y nos ayudamos.
+Debes entender que aprender análisis de datos  es una carrera de fondo. Tendrás mejores y peores momentos, pero, ¿sabes qué? **¡Le pasa a todo el mundo!**. Al final del trayecto te espera un sector lleno de grandes oportunidades. Te recomiendo que te unas a nuestro servidor de Discord, donde compartimos recursos y nos ayudamos.
 
 [![Discord](https://img.shields.io/badge/Discord-Únete_a_nuestra_comunindad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](http://dawoork.com/discord)
 
