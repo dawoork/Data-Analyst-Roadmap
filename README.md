@@ -14,8 +14,6 @@ Tambien te dejo un video para que puedas entender las diferencias entre un Data 
 
 **▶️ Antes de empezar te servirá de ayuda ver una introducción detallada donde explico el roadmap y el funcionamiento del repositorio en mi tutorial de [YouTube](https://youtu.be/@dawoork).**
 
-- **Estadística Básica para Data Analytics (Caso Práctico)**  
-  [Ver Video](https://www.youtube.com/@dawoork){:target="_blank"}
   
 🤖 Si estas buscando un roadmap enfocado al Data Science.
 
